@@ -1,0 +1,6 @@
+Turkcha - Oʻzbekcha AKT lugʻati
+
+dosya - fayl
+dizin - katalog
+döngü - takrorlovchi
+karakter - ishorat
